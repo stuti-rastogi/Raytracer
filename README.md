@@ -1,11 +1,12 @@
-# Assignment #3: Ray tracing
+# Ray tracing
 
 FULL NAME: 	Stuti Rastogi
+
 Date:		04/15/18
 
-
-FEATURES
 ------------------
+
+# Features
 
 1) Ray casting triangles
 
@@ -23,9 +24,9 @@ FEATURES
 
 All result images can be found in the Results directory.
 
-
-REFERENCES
 ------------------
+
+# References
 
 https://www.maplesoft.com/support/help/maple/view.aspx?path=MathApps%2FEquationofaPlane3Points
 http://www.hao-li.com/cs420-fs2015/exercises/Exercise03.pdf
