@@ -1,6 +1,6 @@
 # Ray tracing
 
-FULL NAME: 	Stuti Rastogi
+Name: 	Stuti Rastogi
 
 Date:		04/15/18
 
